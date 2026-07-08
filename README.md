@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Web%20Developer-%20-6A0DAD?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a0533" />
 <img src="https://img.shields.io/badge/Video%20Editor-%20-8A2BE2?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=1a0533" />
-<img src="https://img.shields.io/badge/Nepal-📍-9370DB?style=for-the-badge&labelColor=1a0533" />
+<img src="https://img.shields.io/badge/Nepal--9370DB?style=for-the-badge&labelColor=1a0533" />
 
 <br/><br/>
 
