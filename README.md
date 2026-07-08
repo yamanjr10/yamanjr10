@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:2d1b69,100:6a0dad&height=220&section=header&text=Yaman%20Chapagain&fontSize=52&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:2d1b69,100:6a0dad&height=220&section=header&text=Yaman%20Chapagain&fontSize=52&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Video%20Editor%20%7C%20Web-Developer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Crafting+full+stack+products;Exploring+AI+%26+automation;Turning+ideas+into+shipped+code" alt="Typing SVG" />
 
@@ -70,7 +70,7 @@ Open To:              Internships · Freelance Projects · Open Source Collabora
 
 **Cloud, DevOps & Tooling**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,powershell" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ Open To:              Internships · Freelance Projects · Open Source Collabora
 
 </div>
 
-> *This section reflects current learning direction — update with verified project experience as it develops.*
+> *This section reflects my current learning direction — updated with verified project experience as it develops.*
 
 ---
 
@@ -101,25 +101,11 @@ A JavaScript-based project focused on delivering an interactive, content-driven 
 
 | Aspect | Detail |
 |---|---|
-| **Stack** | JavaScript, HTML, CSS |
+| **Stack** | JavaScript, HTML, CSS, Node.js, Firebase |
 | **Repository** | [github.com/yamanjr10/AniPulse](https://github.com/yamanjr10/AniPulse) |
 | **Focus** | Frontend interactivity and UI polish |
 
 Built to practice structuring a JavaScript frontend project end-to-end, from layout to interaction logic.
-
-</details>
-
-<details>
-<summary><b>🎬 JrEditz</b></summary>
-<br/>
-
-A JavaScript project tied to creative/content tooling, reflecting the intersection of development and video editing work.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | JavaScript |
-| **Repository** | [github.com/yamanjr10/JrEditz](https://github.com/yamanjr10/JrEditz) |
-| **Focus** | Creative tooling / content workflow |
 
 </details>
 
@@ -131,9 +117,23 @@ Personal portfolio project built to showcase projects and skills.
 
 | Aspect | Detail |
 |---|---|
-| **Stack** | CSS, HTML |
+| **Stack** | CSS, HTML, Javascript, React, Node.js |
 | **Repository** | [github.com/yamanjr10/Protfolio](https://github.com/yamanjr10/Protfolio) |
 | **Focus** | Personal branding, responsive layout |
+
+</details>
+
+<details>
+<summary><b>🎬 JrEditz</b></summary>
+<br/>
+
+A JavaScript project tied to creative/content tooling, reflecting the intersection of development and video editing work.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | JavaScript, HTML, CSS |
+| **Repository** | [github.com/yamanjr10/JrEditz](https://github.com/yamanjr10/JrEditz) |
+| **Focus** | Creative tooling / content workflow |
 
 </details>
 
@@ -143,16 +143,7 @@ Personal portfolio project built to showcase projects and skills.
 
 ## ⟡ Experience
 
-> No professional work history has been added yet. Replace this block with real roles as they happen — recruiters do check.
-
-```
-[Job Title] — [Company Name]
-[Start Date] – [End Date]
-
-• Add a short description of the role
-• Add scope-of-work bullet points
-• Skills: [Tag] [Tag] [Tag]
-```
+> No professional work history has been added yet.
 
 ---
 
@@ -171,25 +162,19 @@ Personal portfolio project built to showcase projects and skills.
 
 ## ⟡ Certifications
 
-> No certifications are currently listed on this profile. Add real ones here, grouped by provider — placeholders are left out intentionally to keep this section honest.
-
-<div align="center">
-
-<sub>AWS · Oracle · NPTEL · Cisco badges will appear here once certifications are earned</sub>
-
-</div>
+> No certifications are currently listed on this profile.
 
 ---
 
 ## ⟡ Coding Profiles
 
-> Add your real handles below — replace `yourhandle` with your actual usernames.
+> All my real handles are below.
 
 <p align="center">
-<a href="https://leetcode.com/yourhandle"><img src="https://img.shields.io/badge/LeetCode-Profile-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0533" /></a>
-<a href="https://www.geeksforgeeks.org/user/yourhandle"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7B2FF7?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0533" /></a>
-<a href="https://www.hackerrank.com/yourhandle"><img src="https://img.shields.io/badge/HackerRank-Profile-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a0533" /></a>
-<a href="https://www.codechef.com/users/yourhandle"><img src="https://img.shields.io/badge/CodeChef-Profile-9D4EDD?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://leetcode.com/u/yamanjr10/"><img src="https://img.shields.io/badge/LeetCode-Profile-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7B2FF7?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Profile-9D4EDD?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a0533" /></a>
 </p>
 
 ---
@@ -198,12 +183,12 @@ Personal portfolio project built to showcase projects and skills.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yamanjr10&show_icons=true&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&icon_color=9D4EDD&text_color=E0AAFF&count_private=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yamanjr10&show_icons=true&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&icon_color=9D4EDD&text_color=E0AAFF&count_private=true" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=yamanjr10&theme=dark&hide_border=true&background=1a0533&ring=9D4EDD&fire=B388FF&currStreakLabel=E0AAFF" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamanjr10&layout=compact&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&text_color=E0AAFF" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yamanjr10&layout=compact&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&text_color=E0AAFF" width="49%" />
 
 </div>
 
@@ -212,7 +197,7 @@ Personal portfolio project built to showcase projects and skills.
 ## ⟡ GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yamanjr10&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=yamanjr10&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
