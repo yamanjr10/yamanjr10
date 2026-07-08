@@ -1,18 +1,276 @@
-# 💫 About Me:
-Hi, I’m Yaman Chapagain aka yaman jr from Nepal, a tech enthusiast and lifelong learner with a passion for coding, automation, and creative digital projects. I specialize in Python and web development, constantly exploring ways to make technology smarter and more efficient. One of my key projects is building and improving my personal assistant, Jarvis, which combines voice recognition, automation, and AI-powered interactions to handle everyday tasks seamlessly.<br><br>I’m also deeply creative and enjoy making manga edits and video content using tools like CapCut. Blending technology with artistic expression allows me to challenge myself and continuously grow my skills.<br><br>Curiosity drives me—I love learning new tools, experimenting with code, and solving problems in innovative ways. Whether I’m coding, designing, or creating content, my goal is always to push boundaries, bring ideas to life, and keep improving both my projects and myself every day.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:2d1b69,100:6a0dad&height=220&section=header&text=Yaman%20Chapagain&fontSize=52&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/AEGBkaRjDx) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yamanjrexe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yamanjr.exe/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@jreditz100) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaman.jreditz@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Crafting+full+stack+products;Exploring+AI+%26+automation;Turning+ideas+into+shipped+code" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yamanjr10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yamanjr10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yamanjr10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<img src="https://img.shields.io/badge/Web%20Developer-%20-6A0DAD?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a0533" />
+<img src="https://img.shields.io/badge/Video%20Editor-%20-8A2BE2?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=1a0533" />
+<img src="https://img.shields.io/badge/Nepal-📍-9370DB?style=for-the-badge&labelColor=1a0533" />
+
+<br/><br/>
+
+<a href="https://github.com/yamanjr10/Protfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0533" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533" />
+</a>
+<a href="mailto:yaman.jreditz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533" />
+</a>
+<a href="https://github.com/yamanjr10">
+  <img src="https://img.shields.io/badge/GitHub-Follow-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=yamanjr10&label=Profile%20Views&color=6a0dad&style=for-the-badge&labelColor=1a0533" />
+<img src="https://img.shields.io/github/followers/yamanjr10?label=Followers&style=for-the-badge&color=7b2ff7&labelColor=1a0533" />
+<img src="https://img.shields.io/github/stars/yamanjr10?label=Stars&style=for-the-badge&color=9d4edd&labelColor=1a0533" />
+
+</div>
+
+<br/>
+
+## ⟡ About Me
+
+I'm **Yaman Chapagain**, a software engineer from Nepal focused on building clean, functional, full stack web products and exploring how automation and AI can make everyday workflows smarter. I work primarily across **JavaScript, Python, and React**, with a growing interest in backend systems, tooling, and developer experience.
+
+Alongside engineering, I have a strong creative practice in **video editing and visual content**, which shapes how I think about UI, motion, and product polish — I care as much about *how* something feels to use as how it's built underneath.
+
+I enjoy shipping small, purposeful projects, iterating fast, and treating every repo as a chance to learn something new about the craft of software.
+
+```yaml
+Engineering Focus:    Full Stack Web Development, Automation, Applied AI
+Currently Exploring:  Backend architecture, AI-assisted tooling, DevOps fundamentals
+Open To:              Internships · Freelance Projects · Open Source Collaboration · Mentorship
+```
 
 ---
-[![](https://komarev.com/ghpvc/?username=yamanjr10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⟡ Tech Stack
+
+**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css" />
+</p>
+
+**Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,figma" />
+</p>
+
+**Backend & Databases**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,python" />
+</p>
+
+**Cloud, DevOps & Tooling**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,linux" />
+</p>
+
+---
+
+## ⟡ AI / ML Interests
+
+<div align="center">
+
+| Domain | Familiarity | Details |
+|---|---|---|
+| Applied AI Tooling | Exploring | Using AI-assisted workflows to speed up development and automation tasks |
+| Python for Automation | Practicing | Scripts and small tools for repetitive workflow automation |
+| Prompt-driven Development | Exploring | Integrating LLM-based tools into personal projects and content workflows |
+
+</div>
+
+> *This section reflects current learning direction — update with verified project experience as it develops.*
+
+---
+
+## ⟡ Featured Projects
+
+<details>
+<summary><b>🔮 AniPulse</b></summary>
+<br/>
+
+A JavaScript-based project focused on delivering an interactive, content-driven experience.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | JavaScript, HTML, CSS |
+| **Repository** | [github.com/yamanjr10/AniPulse](https://github.com/yamanjr10/AniPulse) |
+| **Focus** | Frontend interactivity and UI polish |
+
+Built to practice structuring a JavaScript frontend project end-to-end, from layout to interaction logic.
+
+</details>
+
+<details>
+<summary><b>🎬 JrEditz</b></summary>
+<br/>
+
+A JavaScript project tied to creative/content tooling, reflecting the intersection of development and video editing work.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | JavaScript |
+| **Repository** | [github.com/yamanjr10/JrEditz](https://github.com/yamanjr10/JrEditz) |
+| **Focus** | Creative tooling / content workflow |
+
+</details>
+
+<details>
+<summary><b>🌐 Protfolio</b></summary>
+<br/>
+
+Personal portfolio project built to showcase projects and skills.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | CSS, HTML |
+| **Repository** | [github.com/yamanjr10/Protfolio](https://github.com/yamanjr10/Protfolio) |
+| **Focus** | Personal branding, responsive layout |
+
+</details>
+
+> *Add scale, performance, security, and impact metrics here once projects have real usage/deployment data — avoid inflating numbers that can't be backed up.*
+
+---
+
+## ⟡ Experience
+
+> No professional work history has been added yet. Replace this block with real roles as they happen — recruiters do check.
+
+```
+[Job Title] — [Company Name]
+[Start Date] – [End Date]
+
+• Add a short description of the role
+• Add scope-of-work bullet points
+• Skills: [Tag] [Tag] [Tag]
+```
+
+---
+
+## ⟡ Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Pull Shark | GitHub achievement for merged pull requests |
+| Quickdraw | GitHub achievement for closing an issue/PR quickly |
+
+</div>
+
+---
+
+## ⟡ Certifications
+
+> No certifications are currently listed on this profile. Add real ones here, grouped by provider — placeholders are left out intentionally to keep this section honest.
+
+<div align="center">
+
+<sub>AWS · Oracle · NPTEL · Cisco badges will appear here once certifications are earned</sub>
+
+</div>
+
+---
+
+## ⟡ Coding Profiles
+
+> Add your real handles below — replace `yourhandle` with your actual usernames.
+
+<p align="center">
+<a href="https://leetcode.com/yourhandle"><img src="https://img.shields.io/badge/LeetCode-Profile-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://www.geeksforgeeks.org/user/yourhandle"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7B2FF7?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://www.hackerrank.com/yourhandle"><img src="https://img.shields.io/badge/HackerRank-Profile-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://www.codechef.com/users/yourhandle"><img src="https://img.shields.io/badge/CodeChef-Profile-9D4EDD?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a0533" /></a>
+</p>
+
+---
+
+## ⟡ GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yamanjr10&show_icons=true&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&icon_color=9D4EDD&text_color=E0AAFF&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=yamanjr10&theme=dark&hide_border=true&background=1a0533&ring=9D4EDD&fire=B388FF&currStreakLabel=E0AAFF" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamanjr10&layout=compact&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&text_color=E0AAFF" width="49%" />
+
+</div>
+
+---
+
+## ⟡ GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yamanjr10&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+</div>
+
+---
+
+## ⟡ Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yamanjr10&theme=react-dark&hide_border=true&bg_color=1a0533&color=E0AAFF&line=9D4EDD&point=B388FF" width="100%" />
+</div>
+
+---
+
+## ⟡ Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/yamanjr10/yamanjr10/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+---
+
+## ⟡ Current Focus
+
+```yaml
+Learning:
+  - Backend fundamentals (Node.js, databases)
+  - Applied AI / automation tooling
+
+Building:
+  - Personal portfolio and creative-tech projects
+  - Small JavaScript & Python utilities
+
+Exploring:
+  - DevOps basics
+  - Prompt-driven development workflows
+
+Open To:
+  - Internships
+  - Freelance web development
+  - Open source collaboration
+```
+
+---
+
+## ⟡ Connect
+
+<p align="center">
+<a href="mailto:yaman.jreditz@gmail.com"><img src="https://img.shields.io/badge/Gmail-yaman.jreditz-6A0DAD?style=flat-square&logo=gmail&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7B2FF7?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://github.com/yamanjr10"><img src="https://img.shields.io/badge/GitHub-yamanjr10-8A2BE2?style=flat-square&logo=github&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://github.com/yamanjr10/Protfolio"><img src="https://img.shields.io/badge/Portfolio-View-9D4EDD?style=flat-square&logo=vercel&logoColor=white&labelColor=1a0533" /></a>
+</p>
+
+---
+
+<div align="center">
+
+<sub>"Code with purpose, edit with precision, build with patience."</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:2d1b69,100:1a0533&height=120&section=footer" width="100%"/>
+
+</div>
