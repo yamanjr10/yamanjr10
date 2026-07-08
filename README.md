@@ -197,7 +197,7 @@ A JavaScript project tied to creative/content tooling, reflecting the intersecti
 ## ⟡ GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=yamanjr10&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+<img src="https://github-trophies.vercel.app/?username=yamanjr10&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
@@ -245,7 +245,6 @@ Open To:
 
 <p align="center">
 <a href="mailto:yaman.jreditz@gmail.com"><img src="https://img.shields.io/badge/Gmail-yaman.jreditz-6A0DAD?style=flat-square&logo=gmail&logoColor=white&labelColor=1a0533" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7B2FF7?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a0533" /></a>
 <a href="https://github.com/yamanjr10"><img src="https://img.shields.io/badge/GitHub-yamanjr10-8A2BE2?style=flat-square&logo=github&logoColor=white&labelColor=1a0533" /></a>
 <a href="https://github.com/yamanjr10/Protfolio"><img src="https://img.shields.io/badge/Portfolio-View-9D4EDD?style=flat-square&logo=vercel&logoColor=white&labelColor=1a0533" /></a>
 </p>
