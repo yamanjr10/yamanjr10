@@ -65,7 +65,7 @@ Open To:              Internships · Freelance Projects · Open Source Collabora
 
 **Backend & Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,python,firebase" />
 </p>
 
 **Cloud, DevOps & Tooling**
