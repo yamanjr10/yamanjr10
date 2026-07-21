@@ -183,12 +183,12 @@ A JavaScript project tied to creative/content tooling, reflecting the intersecti
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yamanjr10&show_icons=true&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&icon_color=9D4EDD&text_color=E0AAFF&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=yamanjr10&theme=dark&hide_border=true&background=1a0533&ring=9D4EDD&fire=B388FF&currStreakLabel=E0AAFF" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yamanjrexe&show_icons=true&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&icon_color=9D4EDD&text_color=E0AAFF&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=yamanjrexe&theme=dark&hide_border=true&background=1a0533&ring=9D4EDD&fire=B388FF&currStreakLabel=E0AAFF" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yamanjr10&layout=compact&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&text_color=E0AAFF" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yamanjrexe&layout=compact&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&text_color=E0AAFF" width="49%" />
 
 </div>
 
@@ -244,8 +244,8 @@ Open To:
 ## ⟡ Connect
 
 <p align="center">
-<a href="mailto:yamanjrexe@gmail.com"><img src="https://img.shields.io/badge/Gmail-yaman.jreditz-6A0DAD?style=flat-square&logo=gmail&logoColor=white&labelColor=1a0533" /></a>
-<a href="https://github.com/yamanjrexe"><img src="https://img.shields.io/badge/GitHub-yamanjr10-8A2BE2?style=flat-square&logo=github&logoColor=white&labelColor=1a0533" /></a>
+<a href="mailto:yamanjrexe@gmail.com"><img src="https://img.shields.io/badge/Gmail-yamanjrexe-6A0DAD?style=flat-square&logo=gmail&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://github.com/yamanjrexe"><img src="https://img.shields.io/badge/GitHub-yamanjrexe-8A2BE2?style=flat-square&logo=github&logoColor=white&labelColor=1a0533" /></a>
 <a href="https://github.com/yamanjrexe/Protfolio"><img src="https://img.shields.io/badge/Portfolio-View-9D4EDD?style=flat-square&logo=vercel&logoColor=white&labelColor=1a0533" /></a>
 </p>
 
