@@ -18,18 +18,18 @@
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533" />
 </a>
-<a href="mailto:yaman.jreditz@gmail.com">
+<a href="mailto:yamanjrexe@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533" />
 </a>
-<a href="https://github.com/yamanjr10">
+<a href="https://github.com/yamanjrexe">
   <img src="https://img.shields.io/badge/GitHub-Follow-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yamanjr10&label=Profile%20Views&color=6a0dad&style=for-the-badge&labelColor=1a0533" />
-<img src="https://img.shields.io/github/followers/yamanjr10?label=Followers&style=for-the-badge&color=7b2ff7&labelColor=1a0533" />
-<img src="https://img.shields.io/github/stars/yamanjr10?label=Stars&style=for-the-badge&color=9d4edd&labelColor=1a0533" />
+<img src="https://komarev.com/ghpvc/?username=yamanjrexe&label=Profile%20Views&color=6a0dad&style=for-the-badge&labelColor=1a0533" />
+<img src="https://img.shields.io/github/followers/yamanjrexe?label=Followers&style=for-the-badge&color=7b2ff7&labelColor=1a0533" />
+<img src="https://img.shields.io/github/stars/yamanjrexe?label=Stars&style=for-the-badge&color=9d4edd&labelColor=1a0533" />
 
 </div>
 
@@ -102,7 +102,7 @@ A JavaScript-based project focused on delivering an interactive, content-driven 
 | Aspect | Detail |
 |---|---|
 | **Stack** | JavaScript, HTML, CSS, Node.js, Firebase |
-| **Repository** | [github.com/yamanjr10/AniPulse](https://github.com/yamanjr10/AniPulse) |
+| **Repository** | [github.com/yamanjrexe/AniPulse](https://github.com/yamanjrexe/AniPulse) |
 | **Focus** | Frontend interactivity and UI polish |
 
 Built to practice structuring a JavaScript frontend project end-to-end, from layout to interaction logic.
@@ -118,7 +118,7 @@ Personal portfolio project built to showcase projects and skills.
 | Aspect | Detail |
 |---|---|
 | **Stack** | CSS, HTML, Javascript, React, Node.js |
-| **Repository** | [github.com/yamanjr10/Protfolio](https://github.com/yamanjr10/Protfolio) |
+| **Repository** | [github.com/yamanjrexe/Protfolio](https://github.com/yamanjrexe/Protfolio) |
 | **Focus** | Personal branding, responsive layout |
 
 </details>
@@ -132,7 +132,7 @@ A JavaScript project tied to creative/content tooling, reflecting the intersecti
 | Aspect | Detail |
 |---|---|
 | **Stack** | JavaScript, HTML, CSS |
-| **Repository** | [github.com/yamanjr10/JrEditz](https://github.com/yamanjr10/JrEditz) |
+| **Repository** | [github.com/yamanjrexe/JrEditz](https://github.com/yamanjrexe/JrEditz) |
 | **Focus** | Creative tooling / content workflow |
 
 </details>
@@ -197,7 +197,7 @@ A JavaScript project tied to creative/content tooling, reflecting the intersecti
 ## ⟡ GitHub Trophies
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=yamanjr10&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+<img src="https://github-trophies.vercel.app/?username=yamanjrexe&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
@@ -205,7 +205,7 @@ A JavaScript project tied to creative/content tooling, reflecting the intersecti
 ## ⟡ Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yamanjr10&theme=react-dark&hide_border=true&bg_color=1a0533&color=E0AAFF&line=9D4EDD&point=B388FF" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yamanjrexe&theme=react-dark&hide_border=true&bg_color=1a0533&color=E0AAFF&line=9D4EDD&point=B388FF" width="100%" />
 </div>
 
 ---
@@ -213,7 +213,7 @@ A JavaScript project tied to creative/content tooling, reflecting the intersecti
 ## ⟡ Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yamanjr10/yamanjr10/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/yamanjrexe/yamanjrexe/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
@@ -244,9 +244,9 @@ Open To:
 ## ⟡ Connect
 
 <p align="center">
-<a href="mailto:yaman.jreditz@gmail.com"><img src="https://img.shields.io/badge/Gmail-yaman.jreditz-6A0DAD?style=flat-square&logo=gmail&logoColor=white&labelColor=1a0533" /></a>
-<a href="https://github.com/yamanjr10"><img src="https://img.shields.io/badge/GitHub-yamanjr10-8A2BE2?style=flat-square&logo=github&logoColor=white&labelColor=1a0533" /></a>
-<a href="https://github.com/yamanjr10/Protfolio"><img src="https://img.shields.io/badge/Portfolio-View-9D4EDD?style=flat-square&logo=vercel&logoColor=white&labelColor=1a0533" /></a>
+<a href="mailto:yamanjrexe@gmail.com"><img src="https://img.shields.io/badge/Gmail-yaman.jreditz-6A0DAD?style=flat-square&logo=gmail&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://github.com/yamanjrexe"><img src="https://img.shields.io/badge/GitHub-yamanjr10-8A2BE2?style=flat-square&logo=github&logoColor=white&labelColor=1a0533" /></a>
+<a href="https://github.com/yamanjrexe/Protfolio"><img src="https://img.shields.io/badge/Portfolio-View-9D4EDD?style=flat-square&logo=vercel&logoColor=white&labelColor=1a0533" /></a>
 </p>
 
 ---
