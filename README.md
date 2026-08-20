@@ -137,8 +137,6 @@ A JavaScript project tied to creative/content tooling, reflecting the intersecti
 
 </details>
 
-> *Add scale, performance, security, and impact metrics here once projects have real usage/deployment data — avoid inflating numbers that can't be backed up.*
-
 ---
 
 ## ⟡ Experience
