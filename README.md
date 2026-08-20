@@ -183,12 +183,13 @@ A JavaScript project tied to creative/content tooling, reflecting the intersecti
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yamanjrexe&show_icons=true&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&icon_color=9D4EDD&text_color=E0AAFF&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yamanjrexe&show_icons=true&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&icon_color=9D4EDD&text_color=E0AAFF" width="49%" />
+
 <img src="https://streak-stats.demolab.com/?user=yamanjrexe&theme=dark&hide_border=true&background=1a0533&ring=9D4EDD&fire=B388FF&currStreakLabel=E0AAFF" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yamanjrexe&layout=compact&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&text_color=E0AAFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamanjrexe&layout=compact&theme=dark&hide_border=true&bg_color=1a0533&title_color=B388FF&text_color=E0AAFF" width="49%" />
 
 </div>
 
