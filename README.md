@@ -65,7 +65,7 @@ Open To:              Internships · Freelance Projects · Open Source Collabora
 
 **Backend & Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,python,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,firebase" />
 </p>
 
 **Cloud, DevOps & Tooling**
@@ -120,6 +120,20 @@ Personal portfolio project built to showcase projects and skills.
 | **Stack** | CSS, HTML, Javascript, React, Node.js |
 | **Repository** | [github.com/yamanjrexe/Protfolio](https://github.com/yamanjrexe/Protfolio) |
 | **Focus** | Personal branding, responsive layout |
+
+</details>
+
+<details>
+<summary><b>Ani Sora</b></summary>
+<br/>
+
+A streaming project for watching anime online for free.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | React , JavaScript , CSS , Supabase |
+| **Repository** | [github.com/yamanjrexe/Anisora](https://github.com/yamanjrexe/Anisora) |
+| **Focus** | Streaming / content workflow |
 
 </details>
 
